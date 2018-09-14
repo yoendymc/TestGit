@@ -1,1 +1,1 @@
-fiechero js creado por yoendy en github
+let a = "yoendy el tipo de github";
